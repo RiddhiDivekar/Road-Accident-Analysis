@@ -1,9 +1,9 @@
-## 🚦 Road Accident Analysis:
+# 🚦 Road Accident Analysis:
 
-# 📌 Overview:
+## 📌 Overview:
 This project is a Power BI dashboard that analyzes road accident data to identify trends, high-risk areas, and contributing factors. It provides insights into casualties based on vehicle type, road type, urban vs. rural areas, light conditions, and monthly trends.
 
-# 📊 Dashboard Features -Total Casualties & Accidents Overview 📉
+## 📊 Dashboard Features -Total Casualties & Accidents Overview 📉
 
 •	Casualties Breakdown by Vehicle Type 🚗🚌🚲
 
@@ -17,7 +17,7 @@ This project is a Power BI dashboard that analyzes road accident data to identif
 
 •	Geographical Distribution of Accidents 🗺️
 
-# 🛠️ Tools & Technologies -Power BI – For interactive data visualization:
+## 🛠️ Tools & Technologies -Power BI – For interactive data visualization:
 
 •	Excel / CSV / SQL – Data storage and preprocessing
 
@@ -25,7 +25,7 @@ This project is a Power BI dashboard that analyzes road accident data to identif
 
 •	Power Bi- For Creating Dashboard
 
-# 📢 Future Enhancements -Add time-series forecasting for accident prediction:
+## 📢 Future Enhancements -Add time-series forecasting for accident prediction:
 
 •	Integrate real-time accident data API.
 
